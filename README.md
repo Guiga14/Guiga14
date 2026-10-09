@@ -10,7 +10,6 @@ Tenho interesse em arquitetura de software, boas práticas de programação e co
 
 Atualmente, desenvolvo projetos pessoais para aprimorar minhas habilidades com **Java, Spring Boot, PostgreSQL e Docker**, aplicando conceitos de persistência de dados, integração de sistemas e organização de código.
 
-🎯 **Objetivo:** Trainee ou Desenvolvedor Back-end Júnior.
 
 📍 Salvador, Bahia — Brasil
 
