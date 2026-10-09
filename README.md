@@ -2,14 +2,15 @@
 
 `guiga14@github:~$ whoami`
 
-### Desenvolvedor Back-end em formação | Java & Spring Boot
+### Desenvolvedor de Software | Java & Spring Boot | Full-stack
 
-Graduado em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações back-end, APIs REST e bancos de dados relacionais.
+Graduado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento back-end, especialmente utilizando Java, Spring Boot, APIs REST e bancos de dados relacionais.
 
-Tenho interesse em arquitetura de software, boas práticas de programação e construção de soluções que resolvam problemas reais.
+Também tenho interesse em desenvolvimento front-end, explorando tecnologias como React e JavaScript para construir aplicações completas, integrando interfaces e serviços.
 
-Atualmente, desenvolvo projetos pessoais para aprimorar minhas habilidades com **Java, Spring Boot, PostgreSQL e Docker**, aplicando conceitos de persistência de dados, integração de sistemas e organização de código.
+Sou entusiasta de tecnologia, arquitetura de software e boas práticas de desenvolvimento. Gosto de transformar ideias em projetos funcionais, experimentar diferentes tecnologias e aprimorar continuamente meus conhecimentos.
 
+Atualmente, desenvolvo projetos pessoais utilizando **Java, Spring Boot, React, PostgreSQL e Docker**, aplicando conceitos de persistência de dados, integração de sistemas e organização de código.
 
 📍 Salvador, Bahia — Brasil
 
@@ -45,7 +46,7 @@ Atualmente, desenvolvo projetos pessoais para aprimorar minhas habilidades com *
 
 ### 🕹️ Kanban Corporativo Full-stack
 
-Aplicação para gerenciamento de tarefas utilizando **Java 17, Spring Boot, PostgreSQL e React**, com interface inspirada em Pixel Art.
+Aplicação para gerenciamento de tarefas utilizando **Java 21, Spring Boot, PostgreSQL e React**, com interface inspirada em Pixel Art.
 
 **Principais funcionalidades:**
 - CRUD de tarefas.
