@@ -2,7 +2,7 @@
 
 `guiga14@github:~$ whoami`
 
-### Desenvolvedor de Software | Java & Spring Boot | Full-stack
+### Desenvolvedor de Software | Java & Spring Boot
 
 Graduado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento back-end, especialmente utilizando Java, Spring Boot, APIs REST e bancos de dados relacionais.
 
