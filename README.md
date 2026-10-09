@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Back-end em formação | Java & Spring Boot
 
-Estudante de **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações back-end, APIs REST e bancos de dados relacionais.
+Graduado em **Análise e Desenvolvimento de Sistemas**, com foco no desenvolvimento de aplicações back-end, APIs REST e bancos de dados relacionais.
 
 Tenho interesse em arquitetura de software, boas práticas de programação e construção de soluções que resolvam problemas reais.
 
